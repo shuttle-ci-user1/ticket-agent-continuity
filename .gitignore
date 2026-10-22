@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# History data (user-specific, don't commit)
+history.json
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
